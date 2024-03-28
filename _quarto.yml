@@ -5,8 +5,11 @@ website:
   site-url: https://qiufei.site/slide
   # 设置网站图标
   favicon: profile.jpg
-  title: "课件"
+  # title: "课件"
   navbar:
+    left:
+      - text: "Home"
+        href: https://qiufei.site/slide
     right:
       - text: R课件
         href: https://qiufei.site/slide_r
