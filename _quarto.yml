@@ -3,6 +3,7 @@ project:
 
 website:
   site-url: https://qiufei.site/slide_r
+  search: false
   # 设置网站图标
   favicon: profile.jpg
   # title: "课件"
