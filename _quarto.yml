@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  site-url: https://qiufei.site/slide
+  # 设置网站图标
+  favicon: profile.jpg
+  title: "课件"
+  navbar:
+    right:
+      - text: R讲义
+        href: https://qiufei.site/rbook
+      - text: python讲义
+        href: https://qiufei.site/pythonbook
+      - text: supermind
+        href: https://qiufei.site/supermind
+      - text: izhi
+        href: https://qiufei.site/izhi
+      # - icon: github
+      #   href: https://github.com/
+      - about.qmd
+  page-footer:
+    left: ↑ [![](https://www.rstudio.com/assets/img/posit-logo-fullcolor-TM.svg){fig-alt="Posit" width=65px}](https://posit.co)
+    center: 
+      - text: "邱飞 &copy; 2008-2024"
+      - text: "浙ICP备 2024072710号-1"
+        href: "https://beian.miit.gov.cn"
+      - text: "浙公网安备 33021202002511号"
+        href: "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33021202002511"
+    right:
+      - icon: envelope-at-fill
+        href: mailto:hfutqiufei@163.com
+      # - text: ←
+format:
+  html:
+    theme:
+     light: journal
+     dark: cyborg
+    css: styles.css
+
+execute:
+  freeze: auto
+
+
+

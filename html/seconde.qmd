@@ -1,0 +1,15 @@
+---
+title: "logo"
+format:
+  revealjs:
+    logo: ../logo.png
+    footer: <a href="../">退出</a>
+---
+
+## 这是
+
+
+## wode
+
+## ppt
+
