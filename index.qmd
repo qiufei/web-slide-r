@@ -1,6 +1,6 @@
 ---
-title: "糖不卷"
-image: profile.jpg
+title: "统计学习导论"
+# image: profile.jpg
 # about:
 #   template: broadside
 #   links:
@@ -25,9 +25,11 @@ image: profile.jpg
 
 ## 教材
 
-我是邱飞，这是我的个人网站，
+教材采用著名的ISLR(Introduction to Statistical Learning)和ESL(Elements of Statistical Learning)两本书，这两本书是统计学习领域的经典教材，内容涵盖了统计学习的基础知识和进阶知识，适合初学者和进阶者阅读。
 
-用于分享一些数据分析文章，还有个人的记录。
+https://www.statlearning.com/
+
+
 
 
 

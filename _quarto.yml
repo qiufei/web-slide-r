@@ -8,14 +8,14 @@ website:
   title: "课件"
   navbar:
     right:
-      - text: R讲义
-        href: https://qiufei.site/rbook
-      - text: python讲义
-        href: https://qiufei.site/pythonbook
-      - text: supermind
-        href: https://qiufei.site/supermind
-      - text: izhi
-        href: https://qiufei.site/izhi
+      - text: R课件
+        href: https://qiufei.site/slide_r
+      - text: python课件
+        href: https://qiufei.site/slide_python
+      - text: supermind课件
+        href: https://qiufei.site/slide_supermind
+      - text: izhi课件
+        href: https://qiufei.site/slide_izhi
       # - icon: github
       #   href: https://github.com/
       - about.qmd
