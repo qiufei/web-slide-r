@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  site-url: https://qiufei.site/slide
+  site-url: https://qiufei.site/slide_r
   # 设置网站图标
   favicon: profile.jpg
   # title: "课件"
   navbar:
     left:
-      - text: "Home"
-        href: https://qiufei.site/slide
+      - text: "首页"
+        href: https://qiufei.site
     right:
       - text: R课件
         href: https://qiufei.site/slide_r
