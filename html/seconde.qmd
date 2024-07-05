@@ -2,6 +2,7 @@
 title: "logo"
 format:
   revealjs:
+    embed-resources: true
     logo: ../logo.png
     footer: <a href="../">退出</a>
 ---
