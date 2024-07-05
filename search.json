@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "统计学习导论",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "教材采用著名的ISLR(Introduction to Statistical Learning)和ESL(Elements of Statistical Learning)两本书，这两本书是统计学习领域的经典教材，内容涵盖了统计学习的基础知识和进阶知识，适合初学者和进阶者阅读。\nhttps://www.statlearning.com/"
-  },
-  {
-    "objectID": "index.html#教材",
-    "href": "index.html#教材",
-    "title": "统计学习导论",
-    "section": "",
-    "text": "教材采用著名的ISLR(Introduction to Statistical Learning)和ESL(Elements of Statistical Learning)两本书，这两本书是统计学习领域的经典教材，内容涵盖了统计学习的基础知识和进阶知识，适合初学者和进阶者阅读。\nhttps://www.statlearning.com/"
-  },
-  {
-    "objectID": "index.html#ppt",
-    "href": "index.html#ppt",
-    "title": "统计学习导论",
-    "section": "ppt",
-    "text": "ppt\n 第一章 \n嗷嗷的阿啊阿\n 第二章"
+    "text": "我是邱飞，这是我的个人网站，\n用于分享一些数据分析文章，还有个人的记录和资料。"
   },
   {
     "objectID": "html/seconde.html#这是",
@@ -42,10 +28,24 @@
     "text": "ppt\n\n\n\n\n退出"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "统计学习导论",
     "section": "",
-    "text": "我是邱飞，这是我的个人网站，\n用于分享一些数据分析文章，还有个人的记录和资料。"
+    "text": "教材采用著名的ISLR(Introduction to Statistical Learning)和ESL(Elements of Statistical Learning)两本书，这两本书是统计学习领域的经典教材，内容涵盖了统计学习的基础知识和进阶知识，适合初学者和进阶者阅读。\nhttps://www.statlearning.com/"
+  },
+  {
+    "objectID": "index.html#教材",
+    "href": "index.html#教材",
+    "title": "统计学习导论",
+    "section": "",
+    "text": "教材采用著名的ISLR(Introduction to Statistical Learning)和ESL(Elements of Statistical Learning)两本书，这两本书是统计学习领域的经典教材，内容涵盖了统计学习的基础知识和进阶知识，适合初学者和进阶者阅读。\nhttps://www.statlearning.com/"
+  },
+  {
+    "objectID": "index.html#ppt",
+    "href": "index.html#ppt",
+    "title": "统计学习导论",
+    "section": "ppt",
+    "text": "ppt\n 第一章 \n嗷嗷的阿啊阿\n 第二章"
   }
 ]
