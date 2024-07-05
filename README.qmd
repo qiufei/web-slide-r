@@ -1,1 +1,1 @@
-# slide_r
+# web-slide-r
