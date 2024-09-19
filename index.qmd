@@ -35,10 +35,11 @@ https://www.statlearning.com/
 
 ## ppt
 
+测试阶段，无内容。
 
 <a href="./html/tt.html"> 第一章 </a>
 
 嗷嗷的阿啊阿
 
 
-<a href="./html/seconde.html"> 第二章 </a>
+<a href="./html/test.html"> 第二章 </a>
