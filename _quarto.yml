@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: https://qiufei.site/slide_r
+  site-url: https://qiufei.site/web-slide-r
   search: false
   # 设置网站图标
   favicon: profile.jpg
@@ -13,18 +13,20 @@ website:
         href: https://qiufei.site
     right:
       - text: R课件
-        href: https://qiufei.site/slide_r
-      - text: python课件
-        href: https://qiufei.site/slide_python
-      - text: supermind课件
-        href: https://qiufei.site/slide_supermind
-      - text: izhi课件
-        href: https://qiufei.site/slide_izhi
+        href: https://qiufei.site/web-slide-r
+      # - text: python课件
+      #   href: https://qiufei.site/web-slide-python
+      # - text: supermind课件
+      #   href: https://qiufei.site/web-slide-supermind
+      # - text: izhi课件
+      #   href: https://qiufei.site/web-slide-izhi
+      - text: 营销课件
+        href: https://qiufei.site/web-slide-marketing
       # - icon: github
       #   href: https://github.com/
       - about.qmd
   page-footer:
-    left: ↑ [![](https://www.rstudio.com/assets/img/posit-logo-fullcolor-TM.svg){fig-alt="Posit" width=65px}](https://posit.co)
+    left: ↑ [![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){fig-alt="Posit" width=65px}](https://posit.co)
     center: 
       - text: "邱飞 &copy; 2008-2024"
       - text: "浙ICP备 2024072710号-1"
