@@ -26,7 +26,7 @@ website:
       #   href: https://github.com/
       - about.qmd
   page-footer:
-    left: [![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){fig-alt="Posit" width=65px}](https://posit.co)🔋
+    left: 🔋[![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){fig-alt="Posit" width=65px}](https://posit.co)
     center: 
       - text: "邱飞 &copy; 2008-2024"
       - text: "浙ICP备 2024072710号-1"
