@@ -9,6 +9,7 @@ format:
 
 ## 这是
 
+测试多个qmd放到一个html文件夹下。
 
 ## wode
 

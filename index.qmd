@@ -1,6 +1,6 @@
 ---
 title: "统计学习导论"
-# image: profile.jpg
+# image: https://assets.qiufei.site/personal/profile.jpg
 # about:
 #   template: broadside
 #   links:

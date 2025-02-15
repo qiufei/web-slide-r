@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: https://assets.qiufei.site/personal/profile.jpg
 about:
   template: jolla
   links:
