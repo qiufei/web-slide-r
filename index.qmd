@@ -37,6 +37,8 @@ https://www.statlearning.com/
 
 测试阶段，无内容。
 
+这个tt.html文件放在这里能显示，说明直接放一个html文件过来是可用的。
+
 <a href="./html/tt.html"> 第一章 </a>
 
 嗷嗷的阿啊阿
